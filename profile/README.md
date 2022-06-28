@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.crowdsec.net/"> CrowdSec Website</a> •
   <a href="https://www.linkedin.com/company/crowdsec/"><img src="https://img.shields.io/badge/crowdsec-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/crowdsec/" alt="Linkedin Badge" ></a>
-  <a href="https://twitter.com/intent/follow?screen_name=CrowdSec&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Crowd_Security?label=%40CrowdSecurity&style=social"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=Crowd_Security&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Crowd_Security?label=%40CrowdSecurity&style=social"></a>
   <a href="https://discord.com/invite/crowdsec">
   <img src="https://img.shields.io/discord/921520481163673640?label=Discord&logo=discord">
   <a href="https://www.reddit.com/r/CrowdSec/"> <img src="https://img.shields.io/reddit/subreddit-subscribers/crowdsec?color=dark&logoColor=dark&style=social" alt="Reddit Badge">
