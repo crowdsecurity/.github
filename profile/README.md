@@ -27,7 +27,7 @@
 <p align="center"> <a href="https://github.com/crowdsecurity/crowdsec"><img src="https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social" alt="Github Badge"></a></p>
 
 ## <TL;DR>
-CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on fail2ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IP can be sent to CrowdSec for curation before being shared among all users to further improve everyone's security.
+CrowdSec is a free, modern, and collaborative behavior detection engine coupled with a global IP reputation network. It stacks on fail2ban's philosophy but is IPV6 compatible and 60x faster (Go vs. Python) and uses Grok patterns to parse logs. CrowdSec is engineered for modern Cloud / Containers / VM-based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various methods (firewall block, Nginx HTTP 403, Captchas, …) while sharing the aggressive IP to CrowdSec Network and improving everyone's security further.
 
 ## OSS Projects
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - The open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network. <br>
